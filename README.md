@@ -231,8 +231,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Follow me on social media for updates and more learning resources:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/rukshan-induwara-a29020326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/rukshan-induwara)
+
+## 👋 Need Help? 
+If you get stuck:
+
+- Create an Issue and ask your question
+
+- Check if someone else already opened a similar issue
+
+- Reach out during the KT session
 
 **Happy Learning! 🎉**
+Version control is one of the most important skills in software development.
+**Don’t worry if Git feels confusing at first, everyone starts there.**
+The more you use it, the more natural it becomes.
 
-Remember: Making mistakes is part of learning. Don't be afraid to experiment and try new things!
+Remember: **Making mistakes is part of learning.** Don't be afraid to experiment and try new things!
+
+Happy coding & happy contributing! 🚀
