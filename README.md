@@ -1,8 +1,10 @@
-# 🚀 GitHub 101 - GitHub For Beginners
+# ⭐ Git & GitHub Training – Beginner Friendly Guide
 
-Welcome to the **GitHub for Beginners** practice repository! This repo is designed to help you learn and practice essential GitHub workflows including forking, cloning, branching, committing, pushing, and creating pull requests.
+Welcome to the **Git & GitHub Training Repository!** 
+This repository is created especially for the Intern Knowledge Transfer (KT) Session to help you understand and practice Git version control and GitHub workflows used in real-world projects.
 
 ## 📋 What You'll Learn
+By the end of this training, you will be able to:
 
 - ✅ Fork a repository
 - ✅ Clone a repository to your local machine
@@ -23,10 +25,10 @@ Welcome to the **GitHub for Beginners** practice repository! This repo is design
 ### Step 2: Clone Your Fork
 ```bash
 # Replace 'your-username' with your actual GitHub username
-git clone https://github.com/your-username/Github-for-beginners.git
+git clone https://github.com/your-username/Github-kt.git
 
 # Navigate to the project directory
-cd Github-for-beginners
+cd Github-kt
 ```
 > 💡 **Tip:** To open the project in VS Code from your terminal, run:
 > 
