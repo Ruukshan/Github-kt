@@ -3,6 +3,10 @@
 Welcome to the **Git & GitHub Training Repository!** 
 This repository is created especially for the Intern Knowledge Transfer (KT) Session to help you understand and practice Git version control and GitHub workflows used in real-world projects.
 
+<p align="center">
+    <img src="images/banner.png" alt="Git & GitHub Training Banner" />
+</p>
+
 ## 📋 What You'll Learn
 By the end of this training, you will be able to:
 
